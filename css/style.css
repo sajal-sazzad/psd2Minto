@@ -155,7 +155,7 @@
     transform: scale(1.1);
 }
 
-.right_nav a:hover{    
+.right_nav:hover{    
     background-color: #141517;
     transition: 1s;
     transform: scale(1.1);
